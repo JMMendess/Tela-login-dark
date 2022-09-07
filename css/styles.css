@@ -93,7 +93,7 @@ body * {
 }
 
 .btn-login {
-    width: 35vh;
+    width: 100%;
     padding: 16px 0px;
     margin: 25px;
     border: none;
